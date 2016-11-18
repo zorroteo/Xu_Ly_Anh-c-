@@ -56,17 +56,17 @@
     <Compile Include="chupanh.Designer.cs">
       <DependentUpon>chupanh.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form1.cs">
+    <Compile Include="test_webcam.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="test_webcam.Designer.cs">
+      <DependentUpon>test_webcam.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form3.cs">
+    <Compile Include="Su_Ly_Anh.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.cs">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <Compile Include="Su_Ly_Anh.Designer.cs">
+      <DependentUpon>Su_Ly_Anh.cs</DependentUpon>
     </Compile>
     <Compile Include="Histogram .cs">
       <SubType>Form</SubType>
@@ -82,11 +82,11 @@
     <EmbeddedResource Include="chupanh.resx">
       <DependentUpon>chupanh.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="test_webcam.resx">
+      <DependentUpon>test_webcam.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.cs</DependentUpon>
+    <EmbeddedResource Include="Su_Ly_Anh.resx">
+      <DependentUpon>Su_Ly_Anh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Histogram .resx">
       <DependentUpon>Histogram .cs</DependentUpon>

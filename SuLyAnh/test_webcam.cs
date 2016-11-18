@@ -3,11 +3,11 @@ using System.Windows.Forms;
 
 namespace SuLyAnh
 {
-    public partial class Form1 : Form
+    public partial class test_webcam : Form
     {
         private webcam mywebcam;
 
-        public Form1()
+        public test_webcam()
         {
             InitializeComponent();
         }

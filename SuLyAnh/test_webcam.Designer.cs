@@ -1,6 +1,6 @@
 ﻿namespace SuLyAnh
 {
-    partial class Form1
+    partial class test_webcam
     {
         /// <summary>
         /// Required designer variable.

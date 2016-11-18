@@ -10,9 +10,9 @@ using System.IO;
 
 namespace SuLyAnh
 {
-    public partial class Form3 : DevComponents.DotNetBar.Metro.MetroForm
+    public partial class Su_Ly_Anh : DevComponents.DotNetBar.Metro.MetroForm
     {
-        public Form3()
+        public Su_Ly_Anh()
         {
             InitializeComponent();
         }
